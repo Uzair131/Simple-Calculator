@@ -1,0 +1,19 @@
+{
+  "name": "m-uzair-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator to perform basic mathematical operations.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Uzair",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
